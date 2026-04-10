@@ -39,6 +39,7 @@
 | 🏢 **Hollywood ATL Operations** | Financial SaaS dashboard — KPIs, payroll, events, partner profit sharing | Next.js, PostgreSQL, Tailwind | [Live](https://hollywood-atl-operations.vercel.app) |
 | 🤖 **APKVisuals** | AI research platform for documentary filmmakers — GPT-4, ElevenLabs, FFmpeg | Next.js, OpenAI, ElevenLabs | [Live](https://apk-visuals-image-documentary-scrap-five.vercel.app) |
 | 👗 **Harry Clothingz** | Fashion e-commerce storefront with cart, Stripe checkout & booking | Next.js, Stripe, Tailwind | [Live](https://harry-clothingz-n-apparel.vercel.app) |
+| 💼 **HireBoard** | Job board platform with listings, filters, employer dashboard & applications | Next.js, Supabase, Tailwind | [Live](https://jobboard-tommys-projects-1345fc8e.vercel.app) |
 | 🍔 **FoodCo Dashboard** | Business operations dashboard with sales, expenses & inventory tracking | React, Ant Design, Node.js | [Live](https://foodco-arulogun.vercel.app) |
 
 ---
